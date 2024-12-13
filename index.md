@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog i'm trying to understand how GitHub works.
 ---
 
